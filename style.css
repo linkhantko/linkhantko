@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Silkscreen', cursive;
+    text-decoration: none;
+    background-color: var(--bg-color);
+}
+
+:root {
+    --text-color: #FFEF00;
+    --bg-color: #0C090A;
+}
+
+::selection {
+    color: red;
+}
+
+h1 {
+    color: var(--text-color);
+    margin: 40px 100px;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    margin: 40px 100px;
+}
+
+h1 {
+    animation: color-change 1s infinite;
+}
+
+@keyframes color-change {
+    0% {
+        color: red;
+    }
+    50% {
+        color: var(--text-color);
+    }
+    100% {
+        color: red;
+    }
+}
+
+.colname {
+    margin-left: 150px;
+    color: aliceblue;
+}
+
+span {
+    text-align: center;
+    color: aliceblue;
+    font-size: 22px;
+    margin: 40px 100px;
+}
+
+span:hover {
+    color: yellow;
+}
+
+p:hover,
+a:hover {
+    color: yellow;
+}
+
+.contact {
+    color: #FFEF00;
+    font-size: 30px;
+}
+
+.lorem {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    margin: 30px 50px;
+    color: aliceblue;
+    font-size: 19px;
+}
+
+.left {
+    margin-left: 100px;
+}
+
+
+/* hr {
+    margin: 100px 2px;
+} */

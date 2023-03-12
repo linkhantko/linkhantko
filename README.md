@@ -7,7 +7,7 @@ I am constantly seeking new ways to improve my skills and expand my knowledge in
 
 ### :hammer_and_wrench: Technologies and Tools I use:
 <br>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ### :hammer_and_wrench: Technologies and Tools I use:
 <p align="left">
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /> 

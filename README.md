@@ -7,7 +7,7 @@ I am constantly seeking new ways to improve my skills and expand my knowledge in
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/linkhantko)
 
 
-### :hammer_and_wrench: Technologies and Tools I use:
+### Technologies and Tools I use:
 <p align="left">
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />

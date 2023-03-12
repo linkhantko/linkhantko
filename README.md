@@ -19,6 +19,7 @@ I am constantly seeking new ways to improve my skills and expand my knowledge in
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+<img src="./icons/PostgreSQL-Dark.svg" width="48">
 </p>
 
 <!---

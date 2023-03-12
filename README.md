@@ -5,7 +5,8 @@ I am constantly seeking new ways to improve my skills and expand my knowledge in
 
 ### <img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4700ur1h59cekpt37jgaf2i1zgtrcl1w2jz33ox7mh&rid=giphy.gif&ct=g" width="230">
 
-hello
+### :hammer_and_wrench: Technologies and Tools I use:
+
 
 <!---
 linkhantko/linkhantko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

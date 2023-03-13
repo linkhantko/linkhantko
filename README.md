@@ -4,7 +4,7 @@ I am constantly seeking new ways to improve my skills and expand my knowledge in
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![Twitter: LinKhantKo](https://img.shields.io/twitter/follow/LinKhantKo?style=social)](https://twitter.com/LinKhantKo14)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/linkhantko)
+[![GitHub linkhantko](https://img.shields.io/github/followers/linkhantko?label=follow&style=social)](https://github.com/linkhantko)
 
 
 ### Technologies and Tools I use:

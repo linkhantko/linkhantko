@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=1E3D59&background=F5F0E100&width=435&lines=Hello!+I'm+Lin+Khant+Ko)](https://git.io/typing-svg)
 
-I am constantly seeking new ways to improve my skills and expand my knowledge in Laravel. Interest in JavaScript, specifically Vue.js and React <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+- I am constantly seeking new ways to improve my skills and expand my knowledge in Laravel.
+- Interest in JavaScript, specifically Vue.js and React <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![Twitter: LinKhantKo](https://img.shields.io/twitter/follow/LinKhantKo?style=social)](https://twitter.com/LinKhantKo14)
 [![GitHub linkhantko](https://img.shields.io/github/followers/linkhantko?label=follow&style=social)](https://github.com/linkhantko)

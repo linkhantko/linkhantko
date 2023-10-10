@@ -49,8 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/linkhantko/linkhantko/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <!---

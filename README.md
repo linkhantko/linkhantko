@@ -3,13 +3,6 @@
  Hello
 </h2>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/linkhantko/count.svg?"  />
-</div>
-
-###
 
 <img align="left" height="200" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 
